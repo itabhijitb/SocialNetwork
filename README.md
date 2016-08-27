@@ -8,7 +8,7 @@ Suppose there is a social network of experts where each expert is associated wit
 
 Given a task T with a required skillset, we need to find a team of experts [X, Y, Z…] such that among the members of the team we have collectively covered all the required skills with the minimum cost of communication. Discuss various approaches to solve it.
 
-#Hint#: In large graphs a heuristic approach which may not give the most optimized solution but a reasonably good solution, is also acceptable.
+*Hint*: In large graphs a heuristic approach which may not give the most optimized solution but a reasonably good solution, is also acceptable.
 
 
 
